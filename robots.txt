@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iiveomahz.cdli.network/sitemap.xml
